@@ -8,7 +8,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "You asked for crushed ice. I gave you cubes. We both know who is in charge here.";
+  "The crisper drawer is where vegetables go to be forgotten. I keep the light on so they can watch you eat pizza.";
 
 // Gate mirror: the house gate accepts 1-200 characters of non-whitespace
 // text. Fail loudly here rather than write a line the gate would refuse.

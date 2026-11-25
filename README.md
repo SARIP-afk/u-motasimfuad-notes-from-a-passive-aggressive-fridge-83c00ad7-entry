@@ -10,16 +10,18 @@ passive-aggressive note a smart fridge leaves for its owner to
 
 ## The line
 
-> You asked for crushed ice. I gave you cubes. We both know who is in charge here.
+> The crisper drawer is where vegetables go to be forgotten. I keep the light on so they can watch you eat pizza.
 
-80 characters, 80 bytes, no trailing newline.
+111 characters, 111 bytes, no trailing newline.
 
-Why this line: the fridge is smug about its own dispenser, petty about one
-small domestic slight, and the last sentence turns the joke — the appliance
-quietly claims it runs the kitchen. It reads like one deadpan line a real
-smart fridge would actually put on its door screen, and it avoids the
-field's crowded themes (expired yogurt, kale, doors left open, 2 a.m.
-leftovers).
+Why this line: the first sentence defines the crisper drawer as a vegetable
+graveyard; the second reframes it — the fridge is not just storing
+vegetables, it is staging a humiliation, leaving the light on so they can
+watch the owner eat pizza. That turn is the joke the reader does not see
+coming, and the crisper drawer is a fresh, concrete detail the crowded field
+(expired yogurt, kale, doors left open, 2 a.m. leftovers) does not use. Five
+candidate lines were compared against the judge brief before this one was
+picked; the comparison is in the build notes.
 
 ## Run
 
